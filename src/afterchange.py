@@ -1,23 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Dec  6 03:33:59 2017
 
-@author: sanje
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec  5 21:51:46 2017
-
-@author: sanje
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec  5 21:27:12 2017
-
-@author: sanje
-"""
 
 import pandas as pd
 import warnings
