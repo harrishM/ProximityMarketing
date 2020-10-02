@@ -1,18 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Dec 06 21:51:46 2017
-
-@author: sanje
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Nov 21 09:39:27 2017
-
-@author: Sargunan
-"""
-
-## load libraries
 import pandas as pd
 import numpy as np
 import graphlab
